@@ -1,0 +1,1 @@
+This is a personal portfolio website designed to showcase  projects, skills, experience, and contact details. Built with modern web technologies (like HTML, CSS and JavaScript), it features a responsive layout, project gallery, about section, and contact options. The project is open-source and licensed under MIT.
